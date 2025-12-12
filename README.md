@@ -15,7 +15,15 @@ I am a Systems Egineer Computational and I am currently studying for a Master's 
 - 🌴 explore nature outdoors.
 
 ***My Skills Include***
+<h4> Languages </h4>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=gmendoza1191-maker&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gmendoza1191-maker)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gmendoza1191-makertheme=material-palenight)](https://github.com/gmendoza1191-maker)
+</div>
 <hr>
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
