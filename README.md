@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Guillermo Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Guillermo Mendoza </b><img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIwbjJ6NmM2ZWMyem5scHNjYW8yZjkxNzJheHJpNGxhN3ZlZnV3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif""https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ***About me***
