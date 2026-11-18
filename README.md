@@ -50,7 +50,7 @@ My goal is to continuously develop my technical skills and contribute to reliabl
 
 * IT Infrastructure Support
 
-*Device Configuration
+* Device Configuration
 
 
 ***My Skills Include***
@@ -64,9 +64,12 @@ My goal is to continuously develop my technical skills and contribute to reliabl
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gmendoza1191-makertheme=material-palenight)](https://github.com/gmendoza1191-maker)
 </div>
 <hr>
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
+
+ <p align="center">   <i>"Technology is not just about solving problems; it's about creating better solutions."</i> </p>
+
+<p align="center">   ⭐ Thank you for visiting my GitHub profile! </p>
+
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/guillermo-macedo-mendoza1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:gmendoza1191@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
