@@ -52,6 +52,63 @@ My goal is to continuously develop my technical skills and contribute to reliabl
 
 * Device Configuration
 
+🚀 ***Areas of Interest***
+
+* Systems Administration
+
+* IT Infrastructure Management
+
+* Network Administration
+
+* Cloud Services
+
+* IT Security Fundamentals
+
+* Process Automation
+
+* Technology Management
+
+📂 ***Projects & Documentation***
+
+I use GitHub to organize technical documentation, practical exercises, and projects related to IT support and systems administration.
+
+My portfolio will include work related to:
+
+* IT Asset and Inventory Management
+
+* Technical Support Documentation
+
+* Google Workspace Administration
+
+* IT Incident Management
+
+* Network Troubleshooting
+
+* Process Optimization
+
+📚 ***Currently Learning***
+
+* Advanced Systems Administration
+
+* IT Infrastructure Management
+
+* Cloud Technologies
+
+* Networking Fundamentals
+
+* Automation and Scripting
+
+🎯 ***Professional Objective***
+
+To continue growing in the IT field, strengthen my knowledge of systems administration and infrastructure, and develop practical solutions that improve technology operations.
+
+📫 ***Connect With Me***
+
+<a target="_blank" href="https://www.linkedin.com/in/guillermo-macedo-mendoza1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:gmendoza1191@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+
+
 
 ***My Skills Include***
 <h4> Languages </h4>
@@ -68,8 +125,3 @@ My goal is to continuously develop my technical skills and contribute to reliabl
  <p align="center">   <i>"Technology is not just about solving problems; it's about creating better solutions."</i> </p>
 
 <p align="center">   ⭐ Thank you for visiting my GitHub profile! </p>
-
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/guillermo-macedo-mendoza1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:gmendoza1191@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
