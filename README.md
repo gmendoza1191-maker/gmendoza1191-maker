@@ -1,18 +1,57 @@
-<h1 align="center"><b>Hi , I'm Guillermo Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Guillermo Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>IT Support Specialist | Systems Administration | Technology Enthusiast </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-***About me***
+👨‍💻 ***About Me***
 
-I am a Systems Egineer Computational and I am currently studying for a Master's degree in Information Technology. I love to learn and build something new, productive, creative and innovative.
-* **I am interested in Web Designing, Android development, and Digital Marketing**
-- 🌱 I’m currently learning ...
-- 👯 I’m looking forward to collaborate on open source projects.
-- Outside of technology:
-- 👀 I love watch anime, movies
-- 📖 I love to read
-- 🖌️ do painting and skecthing
-- 🎵 listen to music
-- 🌴 explore nature outdoors.
+Hello! I'm Guillermo Mendoza, an IT professional and MTI student with an interest in Systems Administration, IT Infrastructure, and Technical Support.
+
+I enjoy troubleshooting technical issues, managing IT resources, implementing technology solutions, and optimizing digital processes.
+
+My goal is to continuously develop my technical skills and contribute to reliable, efficient, and secure IT environments.
+
+🛠️ ***Technical Skills***
+
+***Systems Administration & IT Support***
+
+* IT Technical Support
+
+* Hardware and Software Troubleshooting
+
+* Computer Equipment Management
+
+* Operating System Support
+
+* User Account Administration
+
+* IT Incident Documentation
+
+***Google Workspace & Productivity***
+
+* Google Workspace Administration
+
+* Google Admin Console
+
+* Google Classroom Administration
+
+* Google Sheets
+
+* Google Forms
+
+* Microsoft Excel
+
+***IT Infrastructure & Networking***
+
+* Basic Network Troubleshooting
+
+* Internet Connectivity Support
+
+* Network Equipment Documentation
+
+* IT Infrastructure Support
+
+*Device Configuration
+
 
 ***My Skills Include***
 <h4> Languages </h4>
